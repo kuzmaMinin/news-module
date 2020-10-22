@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7c78d1d-554e-4e76-86cd-1f4523c49144" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1j5mmkuZqfE3DS25lWzGPzLl7mk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programs/php7/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Сайты\tecart\www" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test.php">
+    <configuration name="test.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tecart/test.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="news.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/news.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="news.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/www/news.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c78d1d-554e-4e76-86cd-1f4523c49144" name="Default Changelist" comment="" />
+      <created>1603102487479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603102487479</updated>
+      <workItem from="1603102488505" duration="727000" />
+      <workItem from="1603122104984" duration="2910000" />
+      <workItem from="1603176430509" duration="1933000" />
+      <workItem from="1603178376540" duration="2212000" />
+      <workItem from="1603182828845" duration="2000" />
+      <workItem from="1603182921238" duration="3113000" />
+      <workItem from="1603202496946" duration="5925000" />
+      <workItem from="1603208805211" duration="358000" />
+      <workItem from="1603209395074" duration="7877000" />
+      <workItem from="1603264234439" duration="27117000" />
+      <workItem from="1603349274205" duration="11284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="355" key="#CLI_Interpreters" timestamp="1603181926615">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="561" y="355" key="#CLI_Interpreters/0.0.3440.1400@0.0.3440.1400" timestamp="1603181926615" />
+    <state x="688" y="343" key="#PHP" timestamp="1603179367489">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="688" y="343" key="#PHP/0.0.3440.1400@0.0.3440.1400" timestamp="1603179367489" />
+    <state x="357" y="545" key="#SQL_Dialects" timestamp="1603124217757">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="357" y="545" key="#SQL_Dialects/0.0.3440.1400@0.0.3440.1400" timestamp="1603124217757" />
+    <state x="573" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603123342048">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="573" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1603123342048" />
+    <state x="761" y="455" key="FileChooserDialogImpl" timestamp="1603207241692">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="761" y="455" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1603207241692" />
+    <state width="1400" height="271" key="GridCell.Tab.0.bottom" timestamp="1603185343957">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1400" height="271" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1603185343957" />
+    <state width="1400" height="271" key="GridCell.Tab.0.center" timestamp="1603185343957">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1400" height="271" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1603185343957" />
+    <state width="1400" height="271" key="GridCell.Tab.0.left" timestamp="1603185343957">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1400" height="271" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1603185343957" />
+    <state width="1400" height="271" key="GridCell.Tab.0.right" timestamp="1603185343957">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1400" height="271" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1603185343957" />
+    <state x="482" y="345" key="SettingsEditor" timestamp="1603179433988">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="482" y="345" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1603179433988" />
+    <state x="-709" y="-25" width="1121" height="1137" maximized="true" key="dock-window-1" timestamp="1603273542364">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="-709" y="-25" width="1121" height="1137" maximized="true" key="dock-window-1/0.0.3440.1400@0.0.3440.1400" timestamp="1603273542364" />
+    <state x="523" y="332" key="run.anything.popup" timestamp="1603278727104">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="523" y="332" key="run.anything.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1603278727104" />
+  </component>
+</project>
