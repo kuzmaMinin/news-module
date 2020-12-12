@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(237, 239, 235);
+    padding: 10px;
+    font-size: 14px;
+}
+
+h2 {
+    margin: 10px 5px 5px 5px;
+}
+
+h4 {
+    margin: 5px 5px 10px 5px;
+}
+
+p {
+    margin: 5px 5px 10px 5px;
+}
+
+hr {
+    border-top: 1px rgb(131, 43, 91) dotted;
+}
+
+.container {
+    max-width: 80%;
+    background: white;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.data {
+    background: rgb(131, 43, 91);
+    margin-right: 5px;
+    padding: 2px 4px 2px 4px;
+    color: white;
+    font-size: 12px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.content {
+    max-width: 80%;
+    background: white;
+    padding: 5px 15px 5px 5px;
+    margin: 0 auto;
+}
+
+/*классы пагинации*/
+
+.pagination-container {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-bottom: 10px;
+}
+
+.pagination-item {
+    width: 25px;
+    height: 15px;
+    background: rgb(237, 239, 235);
+    padding: 1px 5px;
+    margin: 2px;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(202, 204, 201);
+    border-style: dotted;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.pagination-item-active {
+    width: 25px;
+    height: 15px;
+    background: rgb(131, 43, 91);
+    padding: 1px 5px;
+    margin: 2px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(202, 204, 201);
+    border-style: dotted;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+
+
+
